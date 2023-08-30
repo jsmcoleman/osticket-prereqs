@@ -31,7 +31,6 @@ I created a resource group in Azure, then created a Windows 10 virual machine wi
 </p>
 <br />
 
-
 <p>
 <img src="https://i.imgur.com/kvm1DGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
