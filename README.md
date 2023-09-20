@@ -43,12 +43,19 @@ I used a provided list of osTicket prerequsite files to download onto the virtua
 <br />
 
 <p>
-<img src="https://i.imgur.com/R5oIGx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OO3yq1C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/9SxTV4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DYpFH0H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+I proceeded to download and install the files from the google folder and unzip the contents of PHP into a folder I created on the C: drive. Then I registered PHP within IIS and restarted the server. This allowed me to download and connect to osTicket on the browser with "browse *80".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kmm1Ln8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I proceeded to download the files from the google folder and unzip the contents of PHP into a folder I created on the C: drive. Other downloaded files just needed to be installed and configured.  
+Lastly, I needed to enable extensions for osTicket and assign permissions to ensure the efficiency on the browser. After clean up I was able to continue setting up osTicket in the browser.
 </p>
 <br />
