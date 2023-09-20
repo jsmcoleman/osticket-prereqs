@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Virtual Machine in Azure
-- Installation of osticket dependency files
+- Installation of osTicket dependency files
 - Install osTicket
 
 <h2>Installation Steps</h2>
