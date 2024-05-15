@@ -53,8 +53,14 @@ I proceeded to download and install the files from the google folder and unzip t
 <br />
 
 <p>
+<img src="https://i.imgur.com/cgIDwn0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+I searched on the internet browser 127.0.0.1 to test the proper installation and setup of PHP and IIS. This confirmed everything was done correctly.
+<br />
+<p>
 <img src="https://i.imgur.com/kmm1Ln8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Lastly, I needed to enable extensions for osTicket and assign permissions to ensure the efficiency on the browser. After clean up I was able to continue setting up osTicket in the browser.
 </p>
